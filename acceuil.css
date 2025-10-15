@@ -1,0 +1,26 @@
+body {
+background-color: rgb(225, 187, 236);
+}
+/*commentaire*/
+header{
+position: relative;
+left: 1000px;
+width: 50px;
+background-color: rgb(255, 255, 255) ;
+}
+
+h1{
+position: relative;
+top: 20px;
+left: 600px;
+}
+
+h3{
+position: relative;
+
+}
+
+.paragraphe{
+position: relative;
+left: 10px;
+}
